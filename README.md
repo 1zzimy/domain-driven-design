@@ -9,9 +9,6 @@
 - Software Entity와 Domain 간 개념을 일치하여, 도메인 모델부터 코드까지 항상 함께 움직이는 구조의 모델 지향
 
 ## 주요 개념
-- Bounded Context : 도메인을 명확하게 구분 짓는 경계
-- Context Map : Bounded-Context 간의 관계를 보여주는 맵
-- Aggregate : 데이터 변경 단위, 라이프 사이클이 같은 도메인을 모아놓은 집합
 
 ### Domain
 - 소프트웨어가 해결하고자 하는 문제 영역
