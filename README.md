@@ -54,7 +54,7 @@
 
 ## 프로젝트 구조
 
-이 프로젝트는 DDD(Domain Driven Design)와 Hexagonal Architecture 패턴을 적용한 결제(Payment) 도메인 예제입니다.
+이 프로젝트는 DDD(Domain Driven Design)와 Hexagonal Architecture 패턴을 적용한 결제(Payment) 도메인 예제
 
 ```
 src/
